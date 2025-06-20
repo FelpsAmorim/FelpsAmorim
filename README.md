@@ -1,4 +1,4 @@
->**EN**
+**EN**
 
 ![](https://komarev.com/ghpvc/?username=FelpsAmorim&color=006bed)
 
@@ -53,7 +53,7 @@
 [![GitHub](https://img.shields.io/github/followers/FelpsAmorim?label=follow&style=social)](https://github.com/FelpsAmorim)
 
 
-#PT/BR
+**PT/BR**
 
 ![](https://komarev.com/ghpvc/?username=FelpsAmorim&color=006bed)
 
