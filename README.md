@@ -6,7 +6,7 @@
 
 - 🤔 Exploring new technologies and developing real-world software solutions.
 - 🎓 Studying Computer Systems and Information Engineering at the University of Algarve (UAlg), Portugal.
-- 💼 Working as a Full Stack Developer at OKN Group.
+- 💼 Searching Teams
 - 🌱 Currently learning more about Supabase, REST APIs, and scalable software architecture.
 
 ## My Skills
@@ -61,7 +61,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software com foco em usabilidade.
 - 🎓 Estudando Engenharia de Sistemas e Tecnologias Informáticas na Universidade do Algarve (UAlg).
-- 💼 Trabalhando como Desenvolvedor Full Stack na OKN Group.
+- 💼 Procurando um Time!
 - 🌱 Aprendendo mais sobre Supabase, APIs REST, e arquitetura de software escalável.
 
 ## Minhas Skills
