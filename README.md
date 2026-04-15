@@ -5,7 +5,7 @@
 ## About Me
 
 - 🤔 Exploring new technologies and developing real-world software solutions.
-- 🎓 Studying Computer Systems and Information Engineering at the University of Algarve (UAlg), Portugal.
+- 🎓 Studying Cybernetics Defenses, Impacta , São Paulo- Brasil.
 - 💼 Searching Teams
 - 🌱 Currently learning more about Supabase, REST APIs, and scalable software architecture.
 
@@ -60,7 +60,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software com foco em usabilidade.
-- 🎓 Estudando Engenharia de Sistemas e Tecnologias Informáticas na Universidade do Algarve (UAlg).
+- 🎓 Estudando Cybernetics Defenses, Faculdade Impacta - São Paulo, Brasil.
 - 💼 Procurando um Time!
 - 🌱 Aprendendo mais sobre Supabase, APIs REST, e arquitetura de software escalável.
 
